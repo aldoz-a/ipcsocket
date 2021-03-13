@@ -1,12 +1,12 @@
 # ipcsocket 
 
-Three simple sample programs for using UNIX domain sockets (IPC socket)
-=======================================================================
+Three simple sample programs for using UNIX domain sockets (IPC sockets)
+========================================================================
 
 Overview
 --------
 
-Three simple example programs for using UNIX domain sockets (IPC socket).
+POSIX IPC: three simple example programs for using UNIX domain sockets (IPC sockets).
 
 1. processes.c - the parent process that creates the two child processes that communicate via POSIX IPC.
 
