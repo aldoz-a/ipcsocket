@@ -1,7 +1,7 @@
 # ipcsocket 
 
-Three simple sample programs for using UNIX domain sockets (IPC sockets)
-========================================================================
+POSIX IPC: three simple sample programs for using UNIX domain sockets (IPC sockets)
+===================================================================================
 
 Overview
 --------
